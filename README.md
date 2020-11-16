@@ -1,2 +1,2 @@
-# understanding-sql
+# Introduce
 training project sqllite
