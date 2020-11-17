@@ -1,3 +1,3 @@
 # Introduce
 training project sqllite
-[https://github.com/HIKKANOTE/understanding-sql/tree/main/media](#Tables)
+[Tables](#https://github.com/HIKKANOTE/understanding-sql/tree/main/media)
