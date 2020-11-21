@@ -1,0 +1,7 @@
+/* Запишите запрос для таблицы Customers, включающий в выходные данные всех
+покупателей, для которых rating <= 100, в том случае, если они расположены не в
+Rome. */
+
+SELECT cname
+FROM Customers
+WHERE rating <= 100 OR city = 'Rome';
