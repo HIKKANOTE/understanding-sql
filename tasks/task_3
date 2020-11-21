@@ -1,4 +1,0 @@
-/* Запишите запрос, который выдает строки таблицы salesperson в таком порядке:
-city, sname, snum, comm. */
-
-SELECT city, sname, snum, comm FROM Salespeople
