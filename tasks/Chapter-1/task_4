@@ -1,0 +1,4 @@
+/* Запишите команду SELECT, которая выдает rating и следом за ним name каждого
+покупателя (customer), проживающего в San Jose. */
+
+SELECT rating, cname FROM Customers WHERE city='San Jose'
