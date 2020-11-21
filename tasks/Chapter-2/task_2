@@ -1,0 +1,6 @@
+/* Запишите запрос, который покажет имена (names) и названия городов ( cities) для
+всех продавцов в London с комиссионными (commission), превышающими .10. */
+
+SELECT sname, city  
+FROM Salespeople
+WHERE city = 'London' AND comm > .10;
