@@ -1,1 +1,4 @@
+/* Запишите команду SELECT, которая выводит порядковый номер (ordernumber),
+количество (amount) и дату (date) для всех строк таблицы Order. */
 
+SELECT onum, amt, odate FROM Orders
