@@ -1,0 +1,7 @@
+/* Запишите запрос, который выбирает все заявки, у которых в поле amt (amount)
+указано значение О или NULL. */
+
+SELECT *
+FROM Orders
+WHERE amt <> 0 AND 
+	(amt IS NOT NULL);
